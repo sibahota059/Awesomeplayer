@@ -8,6 +8,9 @@ This project is an attempt to create the experience of a Music Player with Track
 
 ![Screenshot](/sample.jpeg)
 
+To see the code in action, download the app 
+### Bajantube
+https://itunes.apple.com/us/app/bajantube/id741599097?ls=1&mt=8
 
 ### Features:
 ===========
@@ -32,6 +35,6 @@ thanks.
 ### Contribute: I'd love to include your contributions. Feel free to improve it, send comments or suggestions. Please let me know if you have great idea on it.
 Contact Me or add me on Facebook - https://www.facebook.com/sibaprasad.hota
 
-To see the code in action, download the app -Bajantube-https://itunes.apple.com/us/app/bajantube/id741599097?ls=1&mt=8
+
 
 
