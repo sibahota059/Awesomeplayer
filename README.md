@@ -1,10 +1,10 @@
 ### Awesomeplayer
 =============
 
-A remote music player to play/ tream music from PHP server to  iOS .
+A remote music player to play/stream music from server to  iOS.
 
 
-This project is an attempt to create the experience of a Music Player with Track change , fast forward, rewind and Social share support.
+This project is an attempt to create the experience of a Music Player with Track change, forward, rewind and Social sharing support.
 
 ![Screenshot](/sample.jpeg)
 
