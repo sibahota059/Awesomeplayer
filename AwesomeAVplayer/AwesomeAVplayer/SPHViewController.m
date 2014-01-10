@@ -95,7 +95,7 @@
     
     dispatch_queue_t downloadQueue = dispatch_queue_create("audio data downloader", NULL);
     dispatch_async(downloadQueue, ^{
-        NSURL *audioURL = [NSURL URLWithString:@"http://www.bajantube.com/uploads/audio/tcokosUvQyzCl5gwwc3g.mp3"];
+        NSURL *audioURL = [NSURL URLWithString:@"http://www.silverlineappz.com/uploads/audio/tcokosUvQyzCl5gwwc3g.mp3"];
         AVPlayerItem * currentItem = [AVPlayerItem playerItemWithURL:audioURL];
         dispatch_async(dispatch_get_main_queue(), ^{
           //  NSError *error = nil;
@@ -296,7 +296,7 @@
     
     dispatch_queue_t downloadQueue = dispatch_queue_create("audio data downloader", NULL);
     dispatch_async(downloadQueue, ^{
-        NSURL *audioURL = [NSURL URLWithString:[NSString stringWithFormat:@"http://www.bajantube.com/uploads/audio/%@",songlist.audioID]];
+        NSURL *audioURL = [NSURL URLWithString:[NSString stringWithFormat:@"http://www.silverlineappz.com/uploads/audio/%@",songlist.audioID]];
         AVPlayerItem * currentItem = [AVPlayerItem playerItemWithURL:audioURL];
         dispatch_async(dispatch_get_main_queue(), ^{
           //  NSError *error = nil;
@@ -342,7 +342,7 @@
     
     dispatch_queue_t downloadQueue = dispatch_queue_create("audio data downloader", NULL);
     dispatch_async(downloadQueue, ^{
-        NSURL *audioURL = [NSURL URLWithString:[NSString stringWithFormat:@"http://www.bajantube.com/uploads/audio/%@",songlist.audioID]];
+        NSURL *audioURL = [NSURL URLWithString:[NSString stringWithFormat:@"http://www.silverlineappz.com/uploads/audio/%@",songlist.audioID]];
         AVPlayerItem * currentItem = [AVPlayerItem playerItemWithURL:audioURL];
         dispatch_async(dispatch_get_main_queue(), ^{
           //  NSError *error = nil;
