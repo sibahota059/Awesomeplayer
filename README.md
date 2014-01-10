@@ -6,6 +6,9 @@ A remote music player to play/ tream music from PHP server to  iOS .
 
 This project is an attempt to create the experience of a Music Player with Track change , fast forward, rewind and Social share support.
 
+![Screenshot](/sample.jpeg)
+
+
 ### Features:
 ===========
 1. You can customize as per your need (Ex: change the image)
@@ -32,4 +35,3 @@ Contact Me or add me on Facebook - https://www.facebook.com/sibaprasad.hota
 To see the code in action, download the app -Bajantube-https://itunes.apple.com/us/app/bajantube/id741599097?ls=1&mt=8
 
 
-![Screenshot](/sample.jpeg)
